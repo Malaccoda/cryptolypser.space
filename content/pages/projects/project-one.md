@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Live in Cryptonia
 colors: colors-a
-date: '2021-10-15'
+date: '2025-03-11'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
