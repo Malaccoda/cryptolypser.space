@@ -28,7 +28,7 @@ metaTags:
     property: 'og:title'
     content: cryptonia
   - type: MetaTag
-    property: 'og:title'
+    property: 'og:image'
     content: ''
 ---
 
