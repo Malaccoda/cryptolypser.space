@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Live in Cryptonia
+title: Life in Cryptonia
 colors: colors-a
 date: '2025-03-11'
 client: Awesome client
