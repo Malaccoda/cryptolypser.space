@@ -4,7 +4,7 @@ title: Life in Cryptonia
 colors: colors-a
 date: '2025-03-11'
 client: Awesome client
-description: 'How Beautiful the Life '
+description: 'How Beautiful the Life in Cryptonia must be! '
 media:
   type: ImageBlock
   url: /images/cryptolypser_landscape.webp
