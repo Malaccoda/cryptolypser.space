@@ -44,13 +44,6 @@
             "self": {
                 "width": "full"
             }
-        },
-        "logo": {
-            "type": "ImageBlock",
-            "url": "/images/cryptolypser_landscape.webp",
-            "altText": "Cryptonia",
-            "caption": "Cryptonia Home of the great Cryptolypser",
-            "elementId": ""
         }
     },
     "footer": {
