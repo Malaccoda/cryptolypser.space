@@ -18,7 +18,7 @@ featuredImage:
   type: ImageBlock
   url: /images/cryptonia_dino.webp
   altText: Cryptonia
-  caption: Caption of the image
+  caption: Cryptonian Dinosaurs
   elementId: ''
 ---
 
