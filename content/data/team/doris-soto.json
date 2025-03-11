@@ -6,5 +6,6 @@
         "type": "ImageBlock",
         "url": "/images/cryptolypser.webp",
         "altText": "Cryptolypser"
-    }
+    },
+    "role": "Space Explorer"
 }
