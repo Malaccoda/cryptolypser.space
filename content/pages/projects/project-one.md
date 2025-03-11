@@ -26,7 +26,7 @@ socialImage: /images/cryptolypser_landscape.webp
 metaTags:
   - type: MetaTag
     property: 'og:title'
-    content: ''
+    content: cryptonia
   - type: MetaTag
     property: 'og:title'
     content: ''
