@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/cryptolypser_landscape.webp",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
