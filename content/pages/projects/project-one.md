@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Life in Cryptonia
 colors: colors-a
 date: '2025-03-11'
-client: Awesome client
+client: space-client
 description: 'How Beautiful the Life in Cryptonia must be! '
 media:
   type: ImageBlock
