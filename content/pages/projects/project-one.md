@@ -17,7 +17,7 @@ media:
 featuredImage:
   type: ImageBlock
   url: /images/cryptonia_dino.webp
-  altText: altText of the image
+  altText: Cryptonia
   caption: Caption of the image
   elementId: ''
 ---
